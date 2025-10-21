@@ -1,0 +1,7 @@
+C:\Menyimpan praktik\praktek6.5\praktek6.5\bin\Debug\praktek6.5.exe.config
+C:\Menyimpan praktik\praktek6.5\praktek6.5\bin\Debug\praktek6.5.exe
+C:\Menyimpan praktik\praktek6.5\praktek6.5\bin\Debug\praktek6.5.pdb
+C:\Menyimpan praktik\praktek6.5\praktek6.5\obj\Debug\praktek6.5.csproj.AssemblyReference.cache
+C:\Menyimpan praktik\praktek6.5\praktek6.5\obj\Debug\praktek6.5.csproj.CoreCompileInputs.cache
+C:\Menyimpan praktik\praktek6.5\praktek6.5\obj\Debug\praktek6.5.exe
+C:\Menyimpan praktik\praktek6.5\praktek6.5\obj\Debug\praktek6.5.pdb

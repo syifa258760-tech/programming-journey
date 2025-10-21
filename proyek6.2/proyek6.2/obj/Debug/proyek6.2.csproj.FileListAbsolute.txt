@@ -1,0 +1,7 @@
+C:\Menyimpan praktik\proyek6.2\proyek6.2\obj\Debug\proyek6.2.csproj.AssemblyReference.cache
+C:\Menyimpan praktik\proyek6.2\proyek6.2\obj\Debug\proyek6.2.csproj.CoreCompileInputs.cache
+C:\Menyimpan praktik\proyek6.2\proyek6.2\bin\Debug\proyek6.2.exe.config
+C:\Menyimpan praktik\proyek6.2\proyek6.2\bin\Debug\proyek6.2.exe
+C:\Menyimpan praktik\proyek6.2\proyek6.2\bin\Debug\proyek6.2.pdb
+C:\Menyimpan praktik\proyek6.2\proyek6.2\obj\Debug\proyek6.2.exe
+C:\Menyimpan praktik\proyek6.2\proyek6.2\obj\Debug\proyek6.2.pdb

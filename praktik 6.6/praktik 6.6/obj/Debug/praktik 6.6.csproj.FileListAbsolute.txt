@@ -1,0 +1,8 @@
+C:\Menyimpan praktik\praktik 6.6\praktik 6.6\obj\Debug\praktik 6.6.csproj.AssemblyReference.cache
+C:\Menyimpan praktik\praktik 6.6\praktik 6.6\obj\Debug\praktik 6.6.csproj.CoreCompileInputs.cache
+C:\Menyimpan praktik\praktik 6.6\praktik 6.6\bin\Debug\praktik 6.6.exe.config
+C:\Menyimpan praktik\praktik 6.6\praktik 6.6\bin\Debug\praktik 6.6.exe
+C:\Menyimpan praktik\praktik 6.6\praktik 6.6\bin\Debug\praktik 6.6.pdb
+C:\Menyimpan praktik\praktik 6.6\praktik 6.6\obj\Debug\praktik 6.6.exe
+C:\Menyimpan praktik\praktik 6.6\praktik 6.6\obj\Debug\praktik 6.6.pdb
+C:\Menyimpan praktik\praktik 6.6\praktik 6.6\obj\Debug\praktik 6.6.exe.config
