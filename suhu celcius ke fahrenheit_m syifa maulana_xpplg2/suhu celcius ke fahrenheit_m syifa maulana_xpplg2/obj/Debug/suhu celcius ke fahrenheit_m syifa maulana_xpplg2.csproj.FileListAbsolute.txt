@@ -1,0 +1,7 @@
+D:\M. syifa Maulana - X PPLG 2\suhu celcius ke fahrenheit_m syifa maulana_xpplg2\suhu celcius ke fahrenheit_m syifa maulana_xpplg2\bin\Debug\suhu celcius ke fahrenheit_m syifa maulana_xpplg2.exe.config
+D:\M. syifa Maulana - X PPLG 2\suhu celcius ke fahrenheit_m syifa maulana_xpplg2\suhu celcius ke fahrenheit_m syifa maulana_xpplg2\bin\Debug\suhu celcius ke fahrenheit_m syifa maulana_xpplg2.exe
+D:\M. syifa Maulana - X PPLG 2\suhu celcius ke fahrenheit_m syifa maulana_xpplg2\suhu celcius ke fahrenheit_m syifa maulana_xpplg2\bin\Debug\suhu celcius ke fahrenheit_m syifa maulana_xpplg2.pdb
+D:\M. syifa Maulana - X PPLG 2\suhu celcius ke fahrenheit_m syifa maulana_xpplg2\suhu celcius ke fahrenheit_m syifa maulana_xpplg2\obj\Debug\suhu celcius ke fahrenheit_m syifa maulana_xpplg2.csproj.AssemblyReference.cache
+D:\M. syifa Maulana - X PPLG 2\suhu celcius ke fahrenheit_m syifa maulana_xpplg2\suhu celcius ke fahrenheit_m syifa maulana_xpplg2\obj\Debug\suhu celcius ke fahrenheit_m syifa maulana_xpplg2.csproj.CoreCompileInputs.cache
+D:\M. syifa Maulana - X PPLG 2\suhu celcius ke fahrenheit_m syifa maulana_xpplg2\suhu celcius ke fahrenheit_m syifa maulana_xpplg2\obj\Debug\suhu celcius ke fahrenheit_m syifa maulana_xpplg2.exe
+D:\M. syifa Maulana - X PPLG 2\suhu celcius ke fahrenheit_m syifa maulana_xpplg2\suhu celcius ke fahrenheit_m syifa maulana_xpplg2\obj\Debug\suhu celcius ke fahrenheit_m syifa maulana_xpplg2.pdb

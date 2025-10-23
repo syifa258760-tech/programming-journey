@@ -1,0 +1,7 @@
+D:\M. syifa Maulana - X PPLG 2\tugas7.1_kali_m syifa maulana_xpplg2\tugas7.1_kali_m syifa maulana_xpplg2\obj\Debug\tugas7.1_kali_m syifa maulana_xpplg2.csproj.AssemblyReference.cache
+D:\M. syifa Maulana - X PPLG 2\tugas7.1_kali_m syifa maulana_xpplg2\tugas7.1_kali_m syifa maulana_xpplg2\obj\Debug\tugas7.1_kali_m syifa maulana_xpplg2.csproj.CoreCompileInputs.cache
+D:\M. syifa Maulana - X PPLG 2\tugas7.1_kali_m syifa maulana_xpplg2\tugas7.1_kali_m syifa maulana_xpplg2\bin\Debug\tugas7.1_kali_m syifa maulana_xpplg2.exe.config
+D:\M. syifa Maulana - X PPLG 2\tugas7.1_kali_m syifa maulana_xpplg2\tugas7.1_kali_m syifa maulana_xpplg2\bin\Debug\tugas7.1_kali_m syifa maulana_xpplg2.exe
+D:\M. syifa Maulana - X PPLG 2\tugas7.1_kali_m syifa maulana_xpplg2\tugas7.1_kali_m syifa maulana_xpplg2\bin\Debug\tugas7.1_kali_m syifa maulana_xpplg2.pdb
+D:\M. syifa Maulana - X PPLG 2\tugas7.1_kali_m syifa maulana_xpplg2\tugas7.1_kali_m syifa maulana_xpplg2\obj\Debug\tugas7.1_kali_m syifa maulana_xpplg2.exe
+D:\M. syifa Maulana - X PPLG 2\tugas7.1_kali_m syifa maulana_xpplg2\tugas7.1_kali_m syifa maulana_xpplg2\obj\Debug\tugas7.1_kali_m syifa maulana_xpplg2.pdb
