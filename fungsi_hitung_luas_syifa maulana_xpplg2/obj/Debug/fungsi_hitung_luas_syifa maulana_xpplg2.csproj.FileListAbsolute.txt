@@ -1,0 +1,7 @@
+D:\M. syifa Maulana - X PPLG 2\fungsi_hitung_luas_syifa maulana_xpplg2\fungsi_hitung_luas_syifa maulana_xpplg2\bin\Debug\fungsi_hitung_luas_syifa maulana_xpplg2.exe.config
+D:\M. syifa Maulana - X PPLG 2\fungsi_hitung_luas_syifa maulana_xpplg2\fungsi_hitung_luas_syifa maulana_xpplg2\bin\Debug\fungsi_hitung_luas_syifa maulana_xpplg2.exe
+D:\M. syifa Maulana - X PPLG 2\fungsi_hitung_luas_syifa maulana_xpplg2\fungsi_hitung_luas_syifa maulana_xpplg2\bin\Debug\fungsi_hitung_luas_syifa maulana_xpplg2.pdb
+D:\M. syifa Maulana - X PPLG 2\fungsi_hitung_luas_syifa maulana_xpplg2\fungsi_hitung_luas_syifa maulana_xpplg2\obj\Debug\fungsi_hitung_luas_syifa maulana_xpplg2.csproj.AssemblyReference.cache
+D:\M. syifa Maulana - X PPLG 2\fungsi_hitung_luas_syifa maulana_xpplg2\fungsi_hitung_luas_syifa maulana_xpplg2\obj\Debug\fungsi_hitung_luas_syifa maulana_xpplg2.csproj.CoreCompileInputs.cache
+D:\M. syifa Maulana - X PPLG 2\fungsi_hitung_luas_syifa maulana_xpplg2\fungsi_hitung_luas_syifa maulana_xpplg2\obj\Debug\fungsi_hitung_luas_syifa maulana_xpplg2.exe
+D:\M. syifa Maulana - X PPLG 2\fungsi_hitung_luas_syifa maulana_xpplg2\fungsi_hitung_luas_syifa maulana_xpplg2\obj\Debug\fungsi_hitung_luas_syifa maulana_xpplg2.pdb

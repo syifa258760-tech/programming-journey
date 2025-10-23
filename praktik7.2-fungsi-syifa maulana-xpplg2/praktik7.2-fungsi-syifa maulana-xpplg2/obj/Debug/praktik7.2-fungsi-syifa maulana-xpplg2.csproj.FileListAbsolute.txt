@@ -1,0 +1,7 @@
+D:\M. syifa Maulana - X PPLG 2\praktik7.2-fungsi-syifa maulana-xpplg2\praktik7.2-fungsi-syifa maulana-xpplg2\bin\Debug\praktik7.2-fungsi-syifa maulana-xpplg2.exe.config
+D:\M. syifa Maulana - X PPLG 2\praktik7.2-fungsi-syifa maulana-xpplg2\praktik7.2-fungsi-syifa maulana-xpplg2\bin\Debug\praktik7.2-fungsi-syifa maulana-xpplg2.exe
+D:\M. syifa Maulana - X PPLG 2\praktik7.2-fungsi-syifa maulana-xpplg2\praktik7.2-fungsi-syifa maulana-xpplg2\bin\Debug\praktik7.2-fungsi-syifa maulana-xpplg2.pdb
+D:\M. syifa Maulana - X PPLG 2\praktik7.2-fungsi-syifa maulana-xpplg2\praktik7.2-fungsi-syifa maulana-xpplg2\obj\Debug\praktik7.2-fungsi-syifa maulana-xpplg2.csproj.AssemblyReference.cache
+D:\M. syifa Maulana - X PPLG 2\praktik7.2-fungsi-syifa maulana-xpplg2\praktik7.2-fungsi-syifa maulana-xpplg2\obj\Debug\praktik7.2-fungsi-syifa maulana-xpplg2.csproj.CoreCompileInputs.cache
+D:\M. syifa Maulana - X PPLG 2\praktik7.2-fungsi-syifa maulana-xpplg2\praktik7.2-fungsi-syifa maulana-xpplg2\obj\Debug\praktik7.2-fungsi-syifa maulana-xpplg2.exe
+D:\M. syifa Maulana - X PPLG 2\praktik7.2-fungsi-syifa maulana-xpplg2\praktik7.2-fungsi-syifa maulana-xpplg2\obj\Debug\praktik7.2-fungsi-syifa maulana-xpplg2.pdb

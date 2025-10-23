@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "praktik7.1-fungai-syifa maulana-pplg2", "praktik7.1-fungai-syifa maulana-pplg2\praktik7.1-fungai-syifa maulana-pplg2.csproj", "{0D47D54A-E6A4-4F44-A79E-1F09E846563D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D47D54A-E6A4-4F44-A79E-1F09E846563D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D47D54A-E6A4-4F44-A79E-1F09E846563D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D47D54A-E6A4-4F44-A79E-1F09E846563D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D47D54A-E6A4-4F44-A79E-1F09E846563D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C89E0E67-5FAE-47FE-99F6-A3E0BA3D74D9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\M. syifa Maulana - X PPLG 2\praktik7.1-fungai-syifa maulana-pplg2\praktik7.1-fungai-syifa maulana-pplg2\obj\Debug\praktik7.1-fungai-syifa maulana-pplg2.csproj.AssemblyReference.cache
+D:\M. syifa Maulana - X PPLG 2\praktik7.1-fungai-syifa maulana-pplg2\praktik7.1-fungai-syifa maulana-pplg2\obj\Debug\praktik7.1-fungai-syifa maulana-pplg2.csproj.CoreCompileInputs.cache
+D:\M. syifa Maulana - X PPLG 2\praktik7.1-fungai-syifa maulana-pplg2\praktik7.1-fungai-syifa maulana-pplg2\bin\Debug\praktik7.1-fungai-syifa maulana-pplg2.exe.config
+D:\M. syifa Maulana - X PPLG 2\praktik7.1-fungai-syifa maulana-pplg2\praktik7.1-fungai-syifa maulana-pplg2\bin\Debug\praktik7.1-fungai-syifa maulana-pplg2.exe
+D:\M. syifa Maulana - X PPLG 2\praktik7.1-fungai-syifa maulana-pplg2\praktik7.1-fungai-syifa maulana-pplg2\bin\Debug\praktik7.1-fungai-syifa maulana-pplg2.pdb
+D:\M. syifa Maulana - X PPLG 2\praktik7.1-fungai-syifa maulana-pplg2\praktik7.1-fungai-syifa maulana-pplg2\obj\Debug\praktik7.1-fungai-syifa maulana-pplg2.exe
+D:\M. syifa Maulana - X PPLG 2\praktik7.1-fungai-syifa maulana-pplg2\praktik7.1-fungai-syifa maulana-pplg2\obj\Debug\praktik7.1-fungai-syifa maulana-pplg2.pdb
+D:\M. syifa Maulana - X PPLG 2\praktik7.1-fungai-syifa maulana-pplg2\praktik7.1-fungai-syifa maulana-pplg2\obj\Debug\praktik7.1-fungai-syifa maulana-pplg2.exe.config
