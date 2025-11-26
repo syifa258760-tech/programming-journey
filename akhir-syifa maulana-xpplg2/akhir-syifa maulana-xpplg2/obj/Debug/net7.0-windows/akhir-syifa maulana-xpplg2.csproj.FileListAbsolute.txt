@@ -1,0 +1,17 @@
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\bin\Debug\net7.0-windows\akhir-syifa maulana-xpplg2.exe
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\bin\Debug\net7.0-windows\akhir-syifa maulana-xpplg2.deps.json
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\bin\Debug\net7.0-windows\akhir-syifa maulana-xpplg2.runtimeconfig.json
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\bin\Debug\net7.0-windows\akhir-syifa maulana-xpplg2.dll
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\bin\Debug\net7.0-windows\akhir-syifa maulana-xpplg2.pdb
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\obj\Debug\net7.0-windows\akhir-syifa maulana-xpplg2.csproj.AssemblyReference.cache
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\obj\Debug\net7.0-windows\akhir_syifa_maulana_xpplg2.Form1.resources
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\obj\Debug\net7.0-windows\akhir-syifa maulana-xpplg2.csproj.GenerateResource.cache
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\obj\Debug\net7.0-windows\akhir-syifa maulana-xpplg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\obj\Debug\net7.0-windows\akhir-syifa maulana-xpplg2.AssemblyInfoInputs.cache
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\obj\Debug\net7.0-windows\akhir-syifa maulana-xpplg2.AssemblyInfo.cs
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\obj\Debug\net7.0-windows\akhir-syifa maulana-xpplg2.csproj.CoreCompileInputs.cache
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\obj\Debug\net7.0-windows\akhir-syifa maulana-xpplg2.dll
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\obj\Debug\net7.0-windows\refint\akhir-syifa maulana-xpplg2.dll
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\obj\Debug\net7.0-windows\akhir-syifa maulana-xpplg2.pdb
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\obj\Debug\net7.0-windows\akhir-syifa maulana-xpplg2.genruntimeconfig.cache
+C:\syifa maulana_xpplg2\akhir-syifa maulana-xpplg2\akhir-syifa maulana-xpplg2\obj\Debug\net7.0-windows\ref\akhir-syifa maulana-xpplg2.dll
