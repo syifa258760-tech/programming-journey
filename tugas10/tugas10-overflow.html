@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tugas 10 overflow</title>
+    <link rel="stylesheet" href="tugas10.CSS">
+    <style>
+        article {
+            width: 300px;
+            height: 100px;
+            border: 2px solid blue;
+            margin-bottom: 50px;
+            padding: 10px;
+            background-color: lightblue;
+        }
+        .v-visible { overflow: visible; }
+        .v-hidden  { overflow: hidden; }
+        .v-scroll  { overflow: scroll; }
+        .v-auto    { overflow: auto; }
+    </style>
+</head>
+<body>
+    <h1>Demonstrasi Properti CSS Overflow</h1>
+    <h2>Cipt: M.Syifa Maulana</h2>
+    <nav class="menu">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Product</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <h3>Produk 1 "PC": Overflow visible</h3>
+    <article class="v-visible">
+        PC (Personal Computer) atau Komputer Pribadi adalah perangkat elektronik yang dirancang untuk penggunaan individu (single-user), berfungsi memproses data, bekerja, belajar, dan hiburan. Terdiri dari komponen hardware (prosesor, RAM, penyimpanan) dan software, PC mencakup komputer desktop, laptop, hingga all-in-one yang mudah digunakan oleh satu orang. 
+
+    </article>
+
+    <h3>Produk 2 "Mobil": Overflow hidden </h3>
+    <article class="v-hidden">
+        Mobil adalah alat transportasi darat beroda empat atau lebih yang digerakkan oleh mesin (umumnya motor bakar) dan dirancang untuk mengangkut penumpang atau barang. Berasal dari kata otomobil ("bergerak sendiri"), mobil menjadi sarana transportasi utama yang melindungi pengguna dari cuaca.
+    </article>
+
+    <h3>Produk 3 "Laptop": Overflow scroll</h3>
+    <article class="v-scroll">
+       Laptop adalah komputer pribadi portabel yang dirancang untuk penggunaan praktis di berbagai tempat, ringan (1-6 kg), dan ditenagai baterai isi ulang. Perangkat berbentuk clamshell ini mengintegrasikan layar, keyboard, dan touchpad dalam satu unit. Laptop modern memiliki kemampuan komputasi setara desktop untuk tugas produktivitas hingga gaming.
+    </article>
+
+    <h3>Produk 4 "Emas": Overflow auto</h3>
+    <article class="v-auto">
+        Emas adalah unsur kimia (simbol Au, nomor atom 79) berupa logam mulia berwarna kuning mengkilap, bersifat lunak, mudah ditempa, dan sangat tidak reaktif (tidak berkarat). Emas dihargai tinggi sebagai aset investasi, bahan perhiasan, konduktor elektronik, serta simbol kekayaan dan mata uang yang stabil secara historis.
+    </article>
+</body>
+</html>
