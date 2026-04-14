@@ -1,0 +1,86 @@
+body{
+    background: linear-gradient(to right,#74ebd5,blue);
+}
+/*judul*/
+h2{
+    color: #333;
+    font-family: Arial;
+    text-align: center;
+    background: white;
+    padding: 10px;
+}
+p{
+    font-family: monospace;
+    font-size: 20px;
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+/*navbar*/
+ul{
+    background: blue;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+li{
+    color: white;
+    background: #74ebd5;
+    display: block;
+    float: left;
+    padding: 10px;
+    position: relative;
+    text-decoration: none;
+    transition: 0.5s;
+}
+li a{
+    color: white;
+    text-decoration: none;
+}
+li:hover,
+li:focus{
+    background: #74ebd5;
+    cursor: pointer;
+}
+li:focus-within a{
+    outline: none;
+}
+ul li ul{
+    background: #74ebd5;
+    visibility: hidden;
+    opacity: 0;
+    min-width: 5rem;
+    position: absolute;
+    transition: alla 0.5s ease;
+    margin-top: 1rem;
+    left: 0;
+    display: none;
+}
+ul li:hover ul,
+ul li:focus-within> ul,
+ul li ul:hover,
+ul li ul:focus{
+    visibility: visible;
+    opacity: 1;
+    display: block;
+}
+ul li ul li{
+    clear: both;
+    width: 100%;
+}
+/*gallery*/
+.gallery{
+    display:flex;
+    gap: 10px;
+    padding: 10px;
+}
+.gallery img{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+.gallery img:hover{
+    transform: scale(1.1);
+}
